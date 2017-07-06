@@ -120,9 +120,7 @@ webstudy
 # CSS
 hello
 # JS
-world
-
-** hello **
+__hello__
 
 
 
