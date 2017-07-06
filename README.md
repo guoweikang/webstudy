@@ -6,12 +6,20 @@ webstudy
 *  [W3C validators tools](http://w3c.github.io/developers/tools/)
 
 # HTML
-* HTML5 First line 
+* HTML5 First line <br/>
 `<!DOCTYPE html>`
-* You should always use the Unicode character encoding UTF-8 for your web pages
- ` <meta charset="utf-8">`
+* You should always use the Unicode character encoding UTF-8 for your web pages <br/>
+ ` <meta charset="utf-8">` <br/>
+ ` <meta http-equiv="Content-Type" content="text/html; charset=utf-8">`
+* HTML character references
+<table>
+ <th> </th>
+ <tr>
+ </tr>
+</table>
 # CSS3 
 # JS 
+**hello**
 
 
 
