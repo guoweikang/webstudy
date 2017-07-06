@@ -12,14 +12,13 @@ webstudy
  ` <meta charset="utf-8">` <br/>
  ` <meta http-equiv="Content-Type" content="text/html; charset=utf-8">`
 * HTML character references<br/>
-<table class="dataintable">
+<table>
     <tr>
-      <th style="width:20%">显示结果</th>
-      <th style="width:20%">描述</th>
-      <th style="width:30%">实体名称</th>
-      <th style="width:30%">实体编号</th>
+      <th >显示结果</th>
+      <th >描述</th>
+      <th >实体名称</th>
+      <th >实体编号</th>
     </tr>
-
     <tr>
       <td>&nbsp;</td>
       <td>空格</td>
