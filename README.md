@@ -163,6 +163,11 @@ data-* 属性包括两部分：<br/>
 
 `` <element draggable="true|false|auto"> `` </li>
 
+<li> hidden： 规定元素是否隐藏 <br/>
+hidden 属性也可用于防止用户查看元素，直到匹配某些条件（比如选择了某个复选框）。然后，JavaScript 可以删除 hidden 属性，以使此元素可见。
+
+`` <element hidden> ``
+</li>
 
 </ol>
 
