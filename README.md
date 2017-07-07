@@ -214,6 +214,52 @@ download 指定下载 可以不赋值 默认文件名 <br/>
 # CSS
 * 引入 <br/>
 * 从外部引入 `` <link rel="stylesheet" href="css/my_styles.css"> `` 
+* 定义在内部 
+``` 
+ <head>
+    <meta charset="UTF-8">
+    <title>Style and link tags</title>
+    <style>
+      /* CSS will go in this area */
+    </style>
+  </head>
+```
+* 注释 ` /* this is comment */` 
+* 格式 选择器{key:value;key:value}
+* [CSS 速查手册](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* font-szie :
+``
+p { font-size: 18px; }
+q { font-size: .8em; }
+blockquote { font-size: 10vh; }
+``
+xx-small, x-small, small, medium, large, x-large, xx-large  和父类相对
+* line-height<br/>
+建议使用无单位值，会根据当前字体大小计算，不会引起意想不到的效果
+
+* text-align <br/>
+<b>注意</b>:文本对齐只对块元素有用，内联不适用
+
+* text-decoration:定义下划线 中划线 上划线
+```
+p { text-decoration: underline; }
+a { text-decoration: none; } /* hyperlinks are underlined by default, but that can be removed */ 
+span { text-decoration: overline; }
+span { text-decoration: underline overline; } /* apply two with just a space between the values */
+span { text-decoration: underline overline line-through; } /* everything */
+```
+* font-weight:字体粗细
+* font-style: 定义倾斜
+* font-family:定义字体 浏览器会尝试列表
+* margin: 外边框
+* color:rgb() rgba()  
+* 单位  px, em, rem, %, vh, vw
+* 列表样式:list-style-type list-style-position list-style-image
+
+* 选择器注意事项<br/>
+#p1 a {}会应用所有p下面的a 但是如果只想应用自己的直接子节点 使用> 
+
+
 # JS
 __hello__
 
