@@ -145,7 +145,7 @@ type：1 A a I i 规定序列号格式
 There is global attribute [here](https://www.w3.org/wiki/HTML/Attributes/_Global)<br/> 
 <ol>
  <li> contenteditable:Specifies whether the contents of the element are editable. </li>
- <li> accesskey: 以下元素支持 accesskey 属性：<a>, <area>, <button>, <input>, <label>, <legend> 以及 <textarea> </li>
+ <li> accesskey: 以下元素支持 accesskey 属性：&lt;a&gt;, &lt;area&gt;, &lt;button&gt;, &lt;input&gt;, &lt;label&gt;, &lt;legend&gt;以及 &lt;textarea&gt; </li>
  <li>  lang ：lang 属性在以下标签中无效：&lt;base>, &lt;br&gt;, &lt;frame&gt;, &lt;frameset&gt;, &lt;hr&gt;, &lt;iframe&gt;, &lt;param&gt; 以及 &lt;script&gt;。</li>
   <li>  data-* ：data-* 属性用于存储页面或应用程序的私有自定义数据。<br/>
 data-* 属性赋予我们在所有 HTML 元素上嵌入自定义 data 属性的能力。<br/>
@@ -155,8 +155,11 @@ data-* 属性包括两部分：<br/>
 属性值可以是任意字符串<br/>
 注释：用户代理会完全忽略前缀为 "data-" 的自定义属性。</li>
  <li> dir:<br/>
- 提示和注释
-注释：dir 属性在以下标签中无效：<base>, <br>, <frame>, <frameset>, <hr>, <iframe>, <param> 以及 <script>。 </li>
+<b> 提示和注释 </b> <br/>
+注释：dir 属性在以下标签中无效：&lt;base&gt;, &lt;br&gt;, &lt;frame&gt;, &lt;frameset&gt;, &lt;hr&gt;, &lt;iframe&gt;, &lt;param&gt; 以及 &lt;script&gt;。 </li>
+
+
+
 </ol>
 
 
