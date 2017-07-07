@@ -143,7 +143,7 @@ type：1 A a I i 规定序列号格式
 
 * global attributes or non global attributes<br/> 
 There is global attribute [here](https://www.w3.org/wiki/HTML/Attributes/_Global)<br/> 
-<ul>
+<ol>
  <li> contenteditable:Specifies whether the contents of the element are editable. </li>
  <li> accesskey: 以下元素支持 accesskey 属性：<a>, <area>, <button>, <input>, <label>, <legend> 以及 <textarea> </li>
  <li>  lang ：lang 属性在以下标签中无效：&lt;base>, &lt;br&gt;, &lt;frame&gt;, &lt;frameset&gt;, &lt;hr&gt;, &lt;iframe&gt;, &lt;param&gt; 以及 &lt;script&gt;。</li>
@@ -154,7 +154,7 @@ data-* 属性包括两部分：<br/>
 属性名不应该包含任何大写字母，并且在前缀 "data-" 之后必须有至少一个字符<br/>
 属性值可以是任意字符串<br/>
 注释：用户代理会完全忽略前缀为 "data-" 的自定义属性。</li>
-</ul>
+</ol>
 
 
 
