@@ -160,7 +160,7 @@ data-* 属性包括两部分：<br/>
  <li> draggable ：  属性规定元素是否可拖动。 <br/>
 <b>提示</b>：链接和图像默认是可拖动的。<br/>
 <b>提示</b>：draggable 属性常用在拖放操作中。请在我们的拖放教程中学习更多内容。<br/>
-`<element draggable="true|false|auto"> ` </li>
+`` <element draggable="true|false|auto"> `` </li>
 
 
 </ol>
