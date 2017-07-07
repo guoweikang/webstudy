@@ -154,10 +154,13 @@ data-* 属性包括两部分：<br/>
 属性名不应该包含任何大写字母，并且在前缀 "data-" 之后必须有至少一个字符<br/>
 属性值可以是任意字符串<br/>
 注释：用户代理会完全忽略前缀为 "data-" 的自定义属性。</li>
- <li> dir:<br/>
+ <li> dir: 属性规定元素内容的文本方向 ltr rtl<br/>
 <b> 提示和注释 </b> <br/>
 注释：dir 属性在以下标签中无效：&lt;base&gt;, &lt;br&gt;, &lt;frame&gt;, &lt;frameset&gt;, &lt;hr&gt;, &lt;iframe&gt;, &lt;param&gt; 以及 &lt;script&gt;。 </li>
-
+ <li> draggable ：  属性规定元素是否可拖动。 <br/>
+<b>提示</b>：链接和图像默认是可拖动的。<br/>
+<b>提示</b>：draggable 属性常用在拖放操作中。请在我们的拖放教程中学习更多内容。<br/>
+`<element draggable="true|false|auto"> ` </li>
 
 
 </ol>
