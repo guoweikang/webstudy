@@ -146,7 +146,7 @@ There is global attribute [here](https://www.w3.org/wiki/HTML/Attributes/_Global
 <ul>
  <li> contenteditable:Specifies whether the contents of the element are editable. </li>
  <li> accesskey: 以下元素支持 accesskey 属性：<a>, <area>, <button>, <input>, <label>, <legend> 以及 <textarea> </li>
- <li>  lang ：lang 属性在以下标签中无效：<base>, <br>, <frame>, <frameset>, <hr>, <iframe>, <param> 以及 <script>。</li>
+ <li>  lang ：lang 属性在以下标签中无效：&lt;base>, &lt;br&gt;, &lt;frame&gt;, &lt;frameset&gt;, &lt;hr&gt;, &lt;iframe&gt;, &lt;param&gt; 以及 &lt;script&gt;。</li>
   <li>  data-* ：data-* 属性用于存储页面或应用程序的私有自定义数据。<br/>
 data-* 属性赋予我们在所有 HTML 元素上嵌入自定义 data 属性的能力。<br/>
 存储的（自定义）数据能够被页面的 JavaScript 中利用，以创建更好的用户体验（不进行 Ajax 调用或服务器端数据库查询）。<br/>
