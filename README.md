@@ -130,8 +130,18 @@ webstudy
 &lt;ul&gt;&lt;/ul&gt;<br/>
 &lt;li&gt;&lt;/li&gt;
 
-* pre 
+* pre <br/>
 这是另一个标签，可以帮助您打破空白规则。 PRE代表“PREformatted text”，意思是“我已经按照我想要的方式设置了它，不要混淆它”。 它通常意味着等宽字体，并且不会忽略空格，制表符或回车符。 说明一些程序代码或其他“打字”材料非常方便：
+
+* attribute key value <br/>
+属性键值对唯一的例外就是值是boolean，如果添加该属性，表示真，如果没有，表示false
+
+* list ol attribute <br/> 
+reversed:序列倒序，如果设置了start 不起作用<br/> 
+start: 指定起始序列号 值始终为数字<br/> 
+type：1 A a I i 规定序列号格式
+
+
 
 # CSS
 hello
