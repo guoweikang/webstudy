@@ -123,10 +123,12 @@ webstudy
 
 * Short quot  or long quote<br/>
 &lt;q&gt;nihao &lt;/q&gt; : &quot;nihao&quot;<br/>
-
 &lt;blockquote&gt; nihao&lt;/blockquote&gt; :Begin a new line and add  margin
+
 * list <br/>
-&lt;ol&gt;
+&lt;ol&gt;&lt;/ol&gt; <br/>
+&lt;ul&gt;&lt;/ul&gt;<br/>
+&lt;li&gt;&lt;/li&gt;
 
 # CSS
 hello
