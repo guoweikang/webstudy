@@ -180,7 +180,19 @@ hidden 属性也可用于防止用户查看元素，直到匹配某些条件（�
 <li> title 属性规定关于元素的额外信息<br/>
  <b>提示：</b>title 属性常与 form 以及 a 元素一同使用，以提供关于输入格式和链接目标的信息。同时它也是 abbr 和 acronym 元素的必需属性。
 </li>
+
+<li> id <br/>
+可以被CSS 和JS使用 另外可以用来作为链接
+&lt;a href="#introduction">1.1 Introduction&lt;/a&gt; &lt!-- This is a hyperlink element which we will learn about later in this week --&gt; 
+&lt;p id="introduction"&gt; This paragraph is the Introduction to the webpage&lt;/p&gt; 
+
+</li>
+
 </ol>
+
+* [非全局属性手册](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+
+* li属性都不赞成使用，使用样式代替
 
 
 
