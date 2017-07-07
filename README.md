@@ -197,10 +197,23 @@ hidden 属性也可用于防止用户查看元素，直到匹配某些条件（�
 
 * li属性都不赞成使用，使用样式代替
 
+* img <br/>
+如果图片没有实际意义。而仅仅是装饰，不要使用tag 使用css 请保持内容和样式分离<br/>
+必须属性 alt src  可以用来作为连接 可以使用地图映射
+
+* hyperlink <br/> 
+链接必须有href 属性,可以用来链接外部和本地网址，可以用来设置图片链接，可以用来指定发送邮件， <br/>
+target 指定打开位置 <br/>
+midia 指定打开设备 <br/>
+download 指定下载 可以不赋值 默认文件名 <br/>
+有三种状态 未被访问 已经访问 正在点击活动状态
+
+
 
 
 # CSS
-hello
+* 引入 <br/>
+* 从外部引入 `` <link rel="stylesheet" href="css/my_styles.css"> `` 
 # JS
 __hello__
 
