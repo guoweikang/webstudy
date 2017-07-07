@@ -184,13 +184,10 @@ hidden 属性也可用于防止用户查看元素，直到匹配某些条件（�
 <li> id <br/>
 可以被CSS 和JS使用 另外可以用来作为链接<br/>
 
-
- `
-
+```
  &lt;a href="#introduction"&gt;1.1 Introduction&lt;/a&gt; <!-- This is a hyperlink element which we will learn about later in this week -->
  <p id="introduction">This paragraph is the Introduction to the webpage</p>
- 
- `
+```
 
 </li>
 
