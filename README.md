@@ -130,6 +130,9 @@ webstudy
 &lt;ul&gt;&lt;/ul&gt;<br/>
 &lt;li&gt;&lt;/li&gt;
 
+* pre 
+这是另一个标签，可以帮助您打破空白规则。 PRE代表“PREformatted text”，意思是“我已经按照我想要的方式设置了它，不要混淆它”。 它通常意味着等宽字体，并且不会忽略空格，制表符或回车符。 说明一些程序代码或其他“打字”材料非常方便：
+
 # CSS
 hello
 # JS
