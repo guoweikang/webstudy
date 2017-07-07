@@ -185,7 +185,9 @@ hidden 属性也可用于防止用户查看元素，直到匹配某些条件（�
 可以被CSS 和JS使用 另外可以用来作为链接<br/>
 
 `` 
-&lt;a href="#introduction">1.1 Introduction&lt;/a&gt; &lt!-- This is a hyperlink element which we will learn about later in this week --&gt; <br/>
+&lt;a href="#introduction">1.1 Introduction&lt;/a&gt; &lt!-- This is a hyperlink element which we will learn about later in this week --&gt; 
+``
+``
 &lt;p id="introduction"&gt; This paragraph is the Introduction to the webpage&lt;/p&gt; 
 ``
 
