@@ -4,6 +4,9 @@ webstudy
 # Tools
 *  code [IntelXDK](https://software.intel.com/en-us/intel-xdk)
 *  [W3C validators tools](http://w3c.github.io/developers/tools/)
+*  [codepen](https://codepen.io/)
+*  [jsbin](http://jsbin.com/degiwagini/edit?html,output)
+
 
 # HTML
 * HTML5 First line <br/>
@@ -116,7 +119,13 @@ webstudy
       <td>&amp;#247;</td>
     </tr>
 </table>
+*  [OTHER chaacter]( https://dev.w3.org/html5/html-author/charref)
 
+* Short quot  or long quote<br/>
+&lt;q&gt;nihao &lt;/q&gt; : "nihao"<br/>
+<blockquote> nihao</blockquote> :Begin a new line and add  margin
+* list <br/>
+&lt;ol&gt;
 # CSS
 hello
 # JS
