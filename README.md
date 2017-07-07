@@ -122,10 +122,12 @@ webstudy
 *  [OTHER chaacter]( https://dev.w3.org/html5/html-author/charref)
 
 * Short quot  or long quote<br/>
-&lt;q&gt;nihao &lt;/q&gt; : "nihao"<br/>
-<blockquote> nihao</blockquote> :Begin a new line and add  margin
+&lt;q&gt;nihao &lt;/q&gt; : &quot;nihao&quot;<br/>
+
+&lt;blockquote&gt; nihao&lt;/blockquote&gt; :Begin a new line and add  margin
 * list <br/>
 &lt;ol&gt;
+
 # CSS
 hello
 # JS
