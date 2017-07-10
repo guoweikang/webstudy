@@ -259,7 +259,12 @@ span { text-decoration: underline overline line-through; } /* everything */
 * 选择器注意事项<br/>
 #p1 a {}会应用所有p下面的a 但是如果只想应用自己的直接子节点 使用> 
 
+* 选择器如果选择符合两个类的元素 使用.A.B 
 
+* table 样式 </br>
+
++ border
++ border-collapse
 
 
 
