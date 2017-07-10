@@ -263,8 +263,8 @@ span { text-decoration: underline overline line-through; } /* everything */
 
 * table 样式 </br>
 
-+ border
-+ border-collapse
+++ border
+++ border-collapse
 
 
 
