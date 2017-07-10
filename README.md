@@ -260,6 +260,10 @@ span { text-decoration: underline overline line-through; } /* everything */
 #p1 a {}会应用所有p下面的a 但是如果只想应用自己的直接子节点 使用> 
 
 
+
+
+
+
 # JS
 __hello__
 
