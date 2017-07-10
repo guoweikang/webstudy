@@ -263,9 +263,23 @@ span { text-decoration: underline overline line-through; } /* everything */
 
 * table 样式 </br>
 
- + border
- + border-collapse
+<ol>
+  <li> border：边框属性 border-width border-style border-color</li>
+  <li> border-collapse: 合并边框 collapse | separate </li>
+  <li> width  or height ：设置大小</li>
+  <li> text-align：横向居中  vertical-align ： 垂直居中</li>
+  <li> padding ：设置内边距</li>
+  <li> border-spacing ：单元格间距</li>
+  <li> sider border ：设置显示线条  常用 只显示下边线 border-bottom</li>
+  <li> 斑马表:使用选择器
 
+```
+  tr:nth-child(even) { background-color: grey; }
+  tr:nth-child(odd) { background-color: #ccff99; }
+```
+
+  </li>
+</ol>
 
 
 
